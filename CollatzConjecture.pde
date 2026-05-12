@@ -22,7 +22,7 @@ void setup(){
                 rotate(-angle);
             }
             strokeWeight(4);
-            stroke(255,50);
+            stroke(255,25);
             line(0,0,len,0);
             translate(len,0);
         }
